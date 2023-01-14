@@ -1,2 +1,1 @@
-# Cards-Slider
-cards slider
+![Cards Slider](images/Cards-Slider.jpg)
