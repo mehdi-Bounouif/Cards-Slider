@@ -1,1 +1,1 @@
-![Cards Slider](images/Cards-Slider.jpg)
+![Cards Slider](images/card-slder2.jpg)
